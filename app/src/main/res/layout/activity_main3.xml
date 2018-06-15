@@ -29,7 +29,8 @@
             android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="128dp"
-            android:text="0"
+            android:background="#ffff00"
+            android:text="123*44"
             android:textSize="30dp" />
 
         <LinearLayout
